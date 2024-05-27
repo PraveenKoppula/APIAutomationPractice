@@ -19,6 +19,7 @@ public class SDETQA_Authetication {
 			.body("authenticated", equalTo(true))
 			.log().all();
 		
+		System.out.println("Testing API");
 	}
 
 	@Test
