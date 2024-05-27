@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-26T00:35:55 PDT" name="Default suite" finished-at="2024-05-26T00:35:56 PDT" duration-ms="979">
+    <groups>
+    </groups>
+    <test started-at="2024-05-26T00:35:55 PDT" name="Default test" finished-at="2024-05-26T00:35:56 PDT" duration-ms="979">
+      <class name="com.qa.tests.SDETQA_Authetication">
+        <test-method signature="bearerTokenAuth()[pri:0, instance:com.qa.tests.SDETQA_Authetication@22a637e7]" started-at="2024-05-26T00:35:55 PDT" name="bearerTokenAuth" finished-at="2024-05-26T00:35:56 PDT" duration-ms="968" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bearerTokenAuth -->
+      </class> <!-- com.qa.tests.SDETQA_Authetication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
